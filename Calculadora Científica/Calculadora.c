@@ -4,7 +4,7 @@
 
 int main() { char operador; float num1, num2, resultado,quociente;
 
-printf("Escolha a operacao (+, -, *, /, ^(potencia), r(raiz), l(log), s(sen), c(cos), t(tan), d(log10), "
+printf("Escolha a operacao (+, -, *, /, ^(potencia), r(raiz quadrada), l(log), s(sen), c(cos), t(tan), d(log10), "
        "e(exp), v(valorabs), f(fatorial), n(logBaseN), m(max), i(min), a(arredondar),o(Modulo),h(hipotenusa),p(pi),u(euler),z(modulo fluente)): ");
 scanf(" %c", &operador); 
 
